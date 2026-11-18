@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Headline results">
+<style>
+text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.tile{opacity:0;animation:up .9s cubic-bezier(.2,.8,.2,1) forwards}
+.sweep{stroke-dasharray:22 78;stroke-dashoffset:0;opacity:.9;animation:run 4s linear infinite}
+@keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@keyframes run{to{stroke-dashoffset:-100}}
+</style><g class="tile" style="animation-delay:0.15s">
+  <rect x="12" y="12" width="285" height="146" rx="14" fill="#141418" stroke="#2a2a30"/>
+  <rect class="sweep" x="12" y="12" width="285" height="146" rx="14" fill="none" stroke="#5ec4f7" stroke-width="1.5" pathLength="100" style="animation-delay:0.55s"/>
+  <text x="34" y="78" font-size="44" font-weight="300" fill="#fff">0.993</text>
+  <text x="34" y="108" font-size="15" font-weight="600" fill="#5ec4f7">PR-AUC on Azure ML</text>
+  <text x="34" y="132" font-size="12.5" fill="#9a9aa2">fraud model, 408k held-out txns</text></g><g class="tile" style="animation-delay:0.33s">
+  <rect x="309" y="12" width="285" height="146" rx="14" fill="#141418" stroke="#2a2a30"/>
+  <rect class="sweep" x="309" y="12" width="285" height="146" rx="14" fill="none" stroke="#5ec4f7" stroke-width="1.5" pathLength="100" style="animation-delay:0.73s"/>
+  <text x="331" y="78" font-size="44" font-weight="300" fill="#fff">97.9%</text>
+  <text x="331" y="108" font-size="15" font-weight="600" fill="#5ec4f7">answer accuracy</text>
+  <text x="331" y="132" font-size="12.5" fill="#9a9aa2">Filings Analyst, vs XBRL ground truth</text></g><g class="tile" style="animation-delay:0.51s">
+  <rect x="606" y="12" width="285" height="146" rx="14" fill="#141418" stroke="#2a2a30"/>
+  <rect class="sweep" x="606" y="12" width="285" height="146" rx="14" fill="none" stroke="#5ec4f7" stroke-width="1.5" pathLength="100" style="animation-delay:0.91s"/>
+  <text x="628" y="78" font-size="44" font-weight="300" fill="#fff">0.94</text>
+  <text x="628" y="108" font-size="15" font-weight="600" fill="#5ec4f7">extraction F1 at Filed</text>
+  <text x="628" y="132" font-size="12.5" fill="#9a9aa2">200+ tax files a day</text></g><g class="tile" style="animation-delay:0.69s">
+  <rect x="903" y="12" width="285" height="146" rx="14" fill="#141418" stroke="#2a2a30"/>
+  <rect class="sweep" x="903" y="12" width="285" height="146" rx="14" fill="none" stroke="#5ec4f7" stroke-width="1.5" pathLength="100" style="animation-delay:1.09s"/>
+  <text x="925" y="78" font-size="44" font-weight="300" fill="#fff">250+</text>
+  <text x="925" y="108" font-size="15" font-weight="600" fill="#5ec4f7">hours saved / month</text>
+  <text x="925" y="132" font-size="12.5" fill="#9a9aa2">Python data pipelines at DHL</text></g></svg>

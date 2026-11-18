@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="196" viewBox="0 0 580 196" role="img" aria-label="Fraud Detection on Azure ML">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#5ec4f7" stop-opacity="0"/><stop offset=".5" stop-color="#5ec4f7"/><stop offset="1" stop-color="#5ec4f7" stop-opacity="0"/></linearGradient></defs>
+<style>
+text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.c{opacity:0;animation:up .9s .1s cubic-bezier(.2,.8,.2,1) forwards}
+.edge{stroke-dasharray:18 82;animation:run 5s linear infinite}
+.bar{animation:scan 3.5s ease-in-out infinite}
+@keyframes up{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+@keyframes run{to{stroke-dashoffset:-100}}
+@keyframes scan{0%{transform:translateX(-200px)}100%{transform:translateX(620px)}}
+</style>
+<g class="c">
+<rect x="2" y="2" width="576" height="192" rx="16" fill="#0d0d11" stroke="#26262c"/>
+<rect class="edge" x="2" y="2" width="576" height="192" rx="16" fill="none" stroke="#5ec4f7" stroke-width="1.5" pathLength="100"/>
+<rect class="bar" x="0" y="2" width="160" height="2" fill="url(#g)"/>
+<text x="24" y="42" font-size="20" font-weight="600" fill="#fff">Fraud Detection on Azure ML</text>
+<text x="24" y="74" font-size="22" font-weight="300" fill="#5ec4f7">PR-AUC 0.993 · p95 121 ms</text>
+<text x="24" y="106" font-size="13.5" fill="#b7b7bf">Pipeline job, MLflow, model registry and a managed</text><text x="24" y="125" font-size="13.5" fill="#b7b7bf">online endpoint over 6.36M transactions.</text>
+<rect x="24" y="150" width="70" height="24" rx="12" fill="#1f2a33"/><text x="59" y="166" font-size="12" fill="#5ec4f7" text-anchor="middle">Azure ML</text><rect x="101.6" y="150" width="62" height="24" rx="12" fill="#1f2a33"/><text x="133" y="166" font-size="12" fill="#5ec4f7" text-anchor="middle">XGBoost</text><rect x="172.0" y="150" width="55" height="24" rx="12" fill="#1f2a33"/><text x="200" y="166" font-size="12" fill="#5ec4f7" text-anchor="middle">MLflow</text><rect x="235.2" y="150" width="55" height="24" rx="12" fill="#1f2a33"/><text x="263" y="166" font-size="12" fill="#5ec4f7" text-anchor="middle">pytest</text>
+</g></svg>
