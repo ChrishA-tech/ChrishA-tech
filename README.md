@@ -17,6 +17,10 @@ baselines that won.
 
 ### Featured projects
 
+**Flagship project · VoltFlex UK.** Compare a rolling charging optimiser with an earliest-charge baseline across 84 reproducible simulated cases. The dashboard shows where the optimiser loses and lets you export the selected results. [Open the replay](https://chrisha-tech.github.io/replay/?project=voltflex-uk) · [View VoltFlex on GitHub](https://github.com/ChrishA-tech/voltflex-uk).
+
+The [interactive portfolio](https://chrisha-tech.github.io/replay/) also covers housing retrofit, rail reliability, river monitoring, crops and hospital pressure. Each project documents its data provenance and failure cases.
+
 <p align="center">
   <a href="https://github.com/ChrishA-tech/fraud-azureml"><img src="p-fraud-azureml.svg" width="49%" alt="Fraud Detection on Azure ML"/></a>
   <a href="https://github.com/ChrishA-tech/filings-analyst-agent"><img src="p-filings.svg" width="49%" alt="Filings Analyst Agent"/></a>
