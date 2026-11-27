@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hero.svg" alt="Chrish Pep Felix A — AI Engineer, Machine Learning Engineer, Data Scientist" width="100%"/>
+  <img src="hero.svg" alt="Chrish Pep Felix A — Data Scientist and AI / ML Engineer" width="100%"/>
 </p>
 
 <p align="center">
@@ -30,12 +30,37 @@ The [interactive portfolio](https://chrisha-tech.github.io/replay/) also covers 
   <a href="https://github.com/ChrishA-tech/rag-pro"><img src="p-ragpro.svg" width="49%" alt="RAG Pro"/></a>
 </p>
 
-**More:** [finrisk-service](https://github.com/ChrishA-tech/finrisk-service) ·
-[insurance-ops-automation](https://github.com/ChrishA-tech/insurance-ops-automation) ·
-[bending-spoons-financial-analysis](https://github.com/ChrishA-tech/bending-spoons-financial-analysis) ·
-[oil-price-forecasting](https://github.com/ChrishA-tech/oil-price-forecasting) ·
-[model-grid](https://chrisha-tech.github.io/model-grid/) ·
-[leetforge](https://github.com/ChrishA-tech/leetforge)
+### Project highlights
+
+| Project | What to look at |
+| --- | --- |
+| **[Patient Feedback Analyser](https://github.com/ChrishA-tech/patient-feedback-analyser)** | Sentiment classification, entity extraction and complaint themes across 215,063 public drug reviews. Reports local benchmarks and tracks the pending SageMaker run. |
+| **[Retail Demand Copilot](https://github.com/ChrishA-tech/retail-demand-copilot)** | Demand forecasting and inventory decisions evaluated on 1.07 million order lines. |
+| **[Customer Retention & Lifetime Value](https://github.com/ChrishA-tech/customer-retention-clv)** | Churn and expected spend for prioritising retention outreach, with a follow-up trial design. |
+| **[Growth Experimentation Platform](https://github.com/ChrishA-tech/growth-experimentation-platform)** | dbt SQL funnel models and an onboarding experiment measuring activation. |
+| **[MLOps Platform](https://github.com/ChrishA-tech/mlops-platform)** | Model registry, Kubernetes serving, drift monitoring and CI/CD. |
+
+### Project directory
+
+**UK open data and forecasting**
+
+[GridGuard UK](https://github.com/ChrishA-tech/gridguard-uk) · [RailPulse UK](https://github.com/ChrishA-tech/railpulse-uk) · [AquaSentinel UK](https://github.com/ChrishA-tech/aquasentinel-uk) · [HarvestShield UK](https://github.com/ChrishA-tech/harvestshield-uk) · [AE-Watch UK](https://github.com/ChrishA-tech/ae-watch-uk) · [Brent Oil Forecasting](https://github.com/ChrishA-tech/oil-price-forecasting) · [Macro Forecast Agent](https://github.com/ChrishA-tech/macro-forecast-agent) · [Football Forecasting](https://github.com/ChrishA-tech/football-forecasting) · [Geographic Data Science Lab](https://github.com/ChrishA-tech/Geographic-Data-Science-Lab)
+
+**Retail and customer analytics**
+
+[Email Uplift Targeting](https://github.com/ChrishA-tech/email-uplift-targeting) · [Review Insights RAG](https://github.com/ChrishA-tech/review-insights-rag) · [E-commerce ML Platform](https://github.com/ChrishA-tech/ecomm-ml-platform)
+
+**Data engineering and ML systems**
+
+[Log Analytics Pipeline](https://github.com/ChrishA-tech/log-analytics-pipeline) · [Data Quality Monitoring](https://github.com/ChrishA-tech/data-quality-monitoring) · [dbt Orders Data Quality](https://github.com/ChrishA-tech/dbt-orders-dq) · [ML Serving on Kubernetes](https://github.com/ChrishA-tech/mlserve-k8s) · [Deep Learning Suite](https://github.com/ChrishA-tech/deep-learning-suite) · [Garment Vision Evaluation](https://github.com/ChrishA-tech/garment-vision-eval) · [QLoRA Fine-tuning Pipeline](https://github.com/ChrishA-tech/qlora-finetune-pipeline) · [LangGraph Prompt Guard](https://github.com/ChrishA-tech/langgraph-prompt-guard) · [LLM Prompt Guard](https://github.com/ChrishA-tech/llm-prompt-guard)
+
+**Finance and insurance**
+
+[Fraud Detection](https://github.com/ChrishA-tech/fraud-detection) · [Credit Risk in R](https://github.com/ChrishA-tech/r-credit-risk) · [FinRisk Service](https://github.com/ChrishA-tech/finrisk-service) · [Insurance Operations Automation](https://github.com/ChrishA-tech/insurance-ops-automation) · [Bending Spoons Financial Analysis](https://github.com/ChrishA-tech/bending-spoons-financial-analysis) · [Model Grid](https://github.com/ChrishA-tech/model-grid)
+
+**Apps and developer tools**
+
+[Propeller React App](https://github.com/ChrishA-tech/propeller-react-app) · [LeetForge](https://github.com/ChrishA-tech/leetforge) · [Portfolio source](https://github.com/ChrishA-tech/chrisha-tech.github.io)
 
 ### Stack
 

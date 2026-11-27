@@ -4,7 +4,7 @@
 text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 
-.c{opacity:0;animation:up .9s .1s cubic-bezier(.2,.8,.2,1) forwards}
+.c{opacity:1;animation:up .9s .1s cubic-bezier(.2,.8,.2,1) forwards}
 .edge{stroke-dasharray:18 82;animation:run 5s linear infinite}
 .bar{animation:scan 3.5s ease-in-out infinite}
 @keyframes up{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}

@@ -3,7 +3,7 @@
 text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 
-.tile{opacity:0;animation:up .9s cubic-bezier(.2,.8,.2,1) forwards}
+.tile{opacity:1;animation:up .9s cubic-bezier(.2,.8,.2,1) forwards}
 .sweep{stroke-dasharray:22 78;stroke-dashoffset:0;opacity:.9;animation:run 4s linear infinite}
 @keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
 @keyframes run{to{stroke-dashoffset:-100}}
