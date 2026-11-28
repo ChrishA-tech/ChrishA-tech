@@ -34,6 +34,7 @@ The [interactive portfolio](https://chrisha-tech.github.io/replay/) also covers 
 
 | Project | What to look at |
 | --- | --- |
+| **[HandoverWatch NW](https://github.com/ChrishA-tech/handoverwatch-nw)** | Ambulance handover delays and time to assessment and treatment across 19 North West NHS trusts, with a held-out forecast benchmark. [Open the dashboard](https://chrisha-tech.github.io/handoverwatch/). |
 | **[Patient Feedback Analyser](https://github.com/ChrishA-tech/patient-feedback-analyser)** | Sentiment classification, entity extraction and complaint themes across 215,063 public drug reviews. Reports local benchmarks and tracks the pending SageMaker run. |
 | **[Retail Demand Copilot](https://github.com/ChrishA-tech/retail-demand-copilot)** | Demand forecasting and inventory decisions evaluated on 1.07 million order lines. |
 | **[Customer Retention & Lifetime Value](https://github.com/ChrishA-tech/customer-retention-clv)** | Churn and expected spend for prioritising retention outreach, with a follow-up trial design. |
